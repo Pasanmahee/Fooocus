@@ -5,27 +5,37 @@
     "default_loras": [
         [
             true,
-            "sd_xl_offset_example-lora_1.0.safetensors",
+            "XL_Weapon_Orbstaff-By_HailoKnight.safetensors",
             0.1
         ],
         [
             true,
-            "None",
+            "XL_Weapon_Orbstaff-By_HailoKnight.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "extremely_detailed_no_trigger-sliders.ntcai.xyz.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "Zavys_Dark_Atmospheric_Contrast-SDXL.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "Translucent-Subsurface_Scattering_Test.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "SDXL/Flux.1D-Matte_Vanta_Black-Experiment.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "Atomic_Heart-Twins_Cosplay-SDXL.safetensors",
             1.0
         ]
     ],
@@ -44,11 +54,17 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
+        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
+        "WildCardX-XL-Fusion.safetensors": "https://civitai.com/api/download/models/345685?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "XL_Weapon_Orbstaff-By_HailoKnight.safetensors": "https://civitai.com/api/download/models/249861?type=Model&format=SafeTensor",
+        "extremely_detailed_no_trigger-sliders.ntcai.xyz.safetensors": "https://civitai.com/api/download/models/258687?type=Model&format=SafeTensor",
+        "Zavys_Dark_Atmospheric_Contrast-SDXL.safetensors": "https://civitai.com/api/download/models/332071?type=Model&format=SafeTensor",
+        "Translucent-Subsurface_Scattering_Test.safetensors": "https://civitai.com/api/download/models/413566?type=Model&format=SafeTensor",
+        "SDXL/Flux.1D-Matte_Vanta_Black-Experiment.safetensors": "https://civitai.com/api/download/models/421757?type=Model&format=SafeTensor",
+        "Atomic_Heart-Twins_Cosplay-SDXL.safetensors": "https://civitai.com/api/download/models/426333?type=Model&format=SafeTensor"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
