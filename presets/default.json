@@ -37,11 +37,6 @@
             true,
             "Atomic_Heart-Twins_Cosplay-SDXL.safetensors",
             1.0
-        ],
-        [
-            true,
-            "EasyNegative",
-            1.0
         ]
     ],
     "default_cfg_scale": 4.0,
@@ -68,8 +63,7 @@
         "Zavys_Dark_Atmospheric_Contrast-SDXL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/130931/zavyCntrstSdxl.72yh.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22zavy-cntrst-sdxl.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151632Z&X-Amz-SignedHeaders=host&X-Amz-Signature=fbd619a9083b1d2d7962c6b016cea6647d82de6c92f67e4b1cc410d16b95faaa",
         "Translucent-Subsurface_Scattering_Test.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/370194/sss-000009.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22sss-000009.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151742Z&X-Amz-SignedHeaders=host&X-Amz-Signature=778313152f88ed491c1ecf7df6271bebb43e6ff28e781e4dd6ded729e0a1fc90",
         "SDXL_Flux_1D-Matte_Vanta_Black-Experiment.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/1141136/20SDXL2020vantBlk.3a70.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22-%20SDXL%20-%20vant_blk_contrast_V2.0.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151834Z&X-Amz-SignedHeaders=host&X-Amz-Signature=21ca28b8fc8da8a9dde0d3225747b398df533e773b9aec2ced745252b6071a4a",
-        "Atomic_Heart-Twins_Cosplay-SDXL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/252350/atomichearttwinscospl.KN9C.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22AtomicHeartTwinsCosplay_SDXL.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T192923Z&X-Amz-SignedHeaders=host&X-Amz-Signature=d6a8c74fa6249ed268d5b06fd0d595c54862d2268cd10ef826c4d76cd1cbeadd",
-        "EasyNegative": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/3068/model/easynegative.YTMh.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22easynegative.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T193127Z&X-Amz-SignedHeaders=host&X-Amz-Signature=f62b5eaf4f2c3f24881e4ebf2e0cd12a1ec84e851ebc7baa931712dfe9de450c"
+        "Atomic_Heart-Twins_Cosplay-SDXL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/252350/atomichearttwinscospl.KN9C.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22AtomicHeartTwinsCosplay_SDXL.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T192923Z&X-Amz-SignedHeaders=host&X-Amz-Signature=d6a8c74fa6249ed268d5b06fd0d595c54862d2268cd10ef826c4d76cd1cbeadd"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
