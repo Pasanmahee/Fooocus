@@ -6,57 +6,48 @@
         [
             true,
             "XL_Weapon_Orbstaff-By_HailoKnight.safetensors",
-            0.1
-        ],
-        [
-            true,
-            "XL_Weapon_Orbstaff-By_HailoKnight.safetensors",
-            1.0
+            0.65
         ],
         [
             true,
             "extremely_detailed_no_trigger-sliders.ntcai.xyz.safetensors",
-            1.0
+            0.6
         ],
         [
             true,
             "Zavys_Dark_Atmospheric_Contrast-SDXL.safetensors",
-            1.0
+            0.8
         ],
         [
             true,
             "Translucent-Subsurface_Scattering_Test.safetensors",
-            1.0
+            0.9
         ],
         [
             true,
             "SDXL_Flux_1D-Matte_Vanta_Black-Experiment.safetensors",
-            1.0
+            0.6
         ],
         [
             true,
             "Atomic_Heart-Twins_Cosplay-SDXL.safetensors",
-            1.0
+            0.8
         ]
     ],
-    "default_cfg_scale": 4.0,
+    "default_cfg_scale": 5.0,
     "default_sample_sharpness": 2.0,
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp"
-    ],
-    "default_aspect_ratio": "1152*896",
+    "default_styles": [],
+    "default_aspect_ratio": "768*1280",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "WildCardX-XL-Fusion.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/2896350/wildcardxXLFusion.d8pf.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22wildcardxXLFusion_fusionOG.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151328Z&X-Amz-SignedHeaders=host&X-Amz-Signature=0caa5ccc6927cd5d6eabc40d447d2a4f35ae19e594090a51f590cd39749e2e39"
     },
-    "embeddings_downloads": {},
+    "embeddings_downloads": {"EasyNegative": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/3068/model/easynegative.YTMh.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22easynegative.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T030510Z&X-Amz-SignedHeaders=host&X-Amz-Signature=5491f592889864f1d02a550b7f230b2816da7868e0bba523e27d1902c532c4c1"},
     "lora_downloads": {
         "XL_Weapon_Orbstaff-By_HailoKnight.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/1664727/xlWeaponOrbstaffBy.Fn7F.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22XL_Weapon_Orbstaff_-_By_HailoKnight.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151432Z&X-Amz-SignedHeaders=host&X-Amz-Signature=97b746735c8f682eb3c185303fdb5c52c17c0a311b28654861939e7323a787e0",
         "extremely_detailed_no_trigger-sliders.ntcai.xyz.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/312884/extremelyDetailed.pfwQ.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22extremely_detailed.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151520Z&X-Amz-SignedHeaders=host&X-Amz-Signature=0efc356d25f2990a111ae0d3ec6ee757ffb5b2d26d4ba5462f6e9caf9b65b1b6",
