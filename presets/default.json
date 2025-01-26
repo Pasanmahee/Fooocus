@@ -32,6 +32,26 @@
             true,
             "Atomic_Heart-Twins_Cosplay-SDXL.safetensors",
             0.8
+        ],
+        [
+            true,
+            "Detail_Tweaker_XL.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "XL_Fantasy_Knights-by_HailoKnight.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "SDXL_Lightning_LoRAs.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "Envy_Zoom_Slider_XL_01.safetensors",
+            0.1
         ]
     ],
     "default_cfg_scale": 5.0,
@@ -39,7 +59,7 @@
     "default_sampler": "dpmpp_2m",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "AtomicHeartTwinsCosplay in absolute darkness, profoundly no light, holding black-pink heart shaped orbstaff, pointed hat, translucent skin, Describe the captivating scene captured in the vintage photograph featuring a Bedouin artist skillfully swallowing a massive sword in the style of Final Fantasy, amidst a mesmerized audience. Provide details about the artist's attire, the sword's intricate design, and the expressions of the onlookers as they witness this extraordinary performance., amazing quality, masterpiece, best quality, hyper detailed, ultra detailed, UHD, perfect anatomy, portrait, dof, hyper-realism, majestic, awesome, inspiring, closeup, an weathered outworn old Fantasy cape, smooth, Closeup, by Dring, rust paint peelz, atmospheric haze, cinamatic composition, soft shadows, national geographic style",
+    "default_prompt": "AtomicHeartTwinsCosplay in absolute darkness, profoundly no light, holding black-pink heart shaped orbstaff, pointed hat, translucent skin, Describe the captivating scene captured in the vintage photograph featuring a Bedouin artist skillfully swallowing a massive sword in the style of Final Fantasy, amidst a mesmerized audience. Provide details about the artist's attire, the sword's intricate design, and the expressions of the onlookers as they witness this extraordinary performance., amazing quality, masterpiece, best quality, hyper detailed, ultra detailed, UHD, perfect anatomy, portrait, dof, hyper-realism, majestic, awesome, inspiring, closeup, an weathered outworn old Fantasy cape, smooth, Closeup, by Dring, rust paint peelz, atmospheric haze, cinamatic composition, soft shadows, national geographic style, HKStyle",
     "default_prompt_negative": "easynegative, bad proportions, low resolution, bad, ugly, terrible, painting, 3d, render, comic, anime, manga, unrealistic, flat, watermark, signature, worst quality, low quality, normal quality, lowres, simple background, inaccurate limb, extra fingers, fewer fingers, missing fingers, extra arms, (extra legs:1.3), inaccurate eyes, bad composition, bad anatomy, error, extra digit, fewer digits, cropped, low res, worst quality, low quality, normal quality, jpeg artifacts, extra digit, fewer digits, trademark, watermark, artist's name, username, signature, text, words, human,",
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
@@ -54,7 +74,11 @@
         "Zavys_Dark_Atmospheric_Contrast-SDXL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/130931/zavyCntrstSdxl.72yh.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22zavy-cntrst-sdxl.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151632Z&X-Amz-SignedHeaders=host&X-Amz-Signature=fbd619a9083b1d2d7962c6b016cea6647d82de6c92f67e4b1cc410d16b95faaa",
         "Translucent-Subsurface_Scattering_Test.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/370194/sss-000009.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22sss-000009.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151742Z&X-Amz-SignedHeaders=host&X-Amz-Signature=778313152f88ed491c1ecf7df6271bebb43e6ff28e781e4dd6ded729e0a1fc90",
         "SDXL_Flux_1D-Matte_Vanta_Black-Experiment.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/1141136/20SDXL2020vantBlk.3a70.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22-%20SDXL%20-%20vant_blk_contrast_V2.0.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151834Z&X-Amz-SignedHeaders=host&X-Amz-Signature=21ca28b8fc8da8a9dde0d3225747b398df533e773b9aec2ced745252b6071a4a",
-        "Atomic_Heart-Twins_Cosplay-SDXL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/252350/atomichearttwinscospl.KN9C.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22AtomicHeartTwinsCosplay_SDXL.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T192923Z&X-Amz-SignedHeaders=host&X-Amz-Signature=d6a8c74fa6249ed268d5b06fd0d595c54862d2268cd10ef826c4d76cd1cbeadd"
+        "Atomic_Heart-Twins_Cosplay-SDXL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/252350/atomichearttwinscospl.KN9C.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22AtomicHeartTwinsCosplay_SDXL.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T192923Z&X-Amz-SignedHeaders=host&X-Amz-Signature=d6a8c74fa6249ed268d5b06fd0d595c54862d2268cd10ef826c4d76cd1cbeadd",
+        "Detail_Tweaker_XL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/1969604/model/addDetailXl.MLUV.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22add-detail-xl.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250126/us-east-1/s3/aws4_request&X-Amz-Date=20250126T210059Z&X-Amz-SignedHeaders=host&X-Amz-Signature=e86332bb14efcc9994d4a06b00feb9e891db28808955e63f467dc42765e11c85",
+        "XL_Fantasy_Knights-by_HailoKnight.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/1664727/fantasyknightshkstyl.yT6b.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22FantasyKnightsHKStyle.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250126/us-east-1/s3/aws4_request&X-Amz-Date=20250126T211612Z&X-Amz-SignedHeaders=host&X-Amz-Signature=014fff8e252e21376fc0055d9ba5865a90aaa4df807a0483b906f865e6db20e8",
+        "SDXL_Lightning_LoRAs.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/5418/sdxlLightning8step.Kme5.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22sdxl_lightning_8step_lora.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250126/us-east-1/s3/aws4_request&X-Amz-Date=20250126T212553Z&X-Amz-SignedHeaders=host&X-Amz-Signature=de055e6e1723c4c056ca6ac3264ccc5d574fd3d0a6f642eb8361d13873b33b17",
+        "Envy_Zoom_Slider_XL_01.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/5628/envyzoomsliderxl01.9PWP.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22EnvyZoomSliderXL01.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250126/us-east-1/s3/aws4_request&X-Amz-Date=20250126T221445Z&X-Amz-SignedHeaders=host&X-Amz-Signature=2803f464eda43e979d1b28b582fac01d6330a7317c127923000abafbeecf1392"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
