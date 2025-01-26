@@ -6,37 +6,62 @@
     "default_loras": [
         [
             true,
-            "None",
-            1.0
+            "Sinfully_Stylish_dramatic_lighting.safetensors",
+            0.1
         ],
         [
             true,
-            "None",
-            1.0
+            "Pony_Custom_styles.safetensors",
+            0.1
         ],
         [
             true,
-            "None",
-            1.0
+            "Not_Artists_Styles_for_Pony_Diffusion_V6_XL.safetensors",
+            0.1
         ],
         [
             true,
-            "None",
-            1.0
+            "San_Princess_Mononoke.safetensors",
+            0.1
         ],
         [
             true,
-            "None",
-            1.0
+            "ExpressiveH_Hentai_LoRa_Style.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "Walk_in_caught_watched.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "All_Disney_Princess_XL.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "Floox_Style_PonyXL.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "Pet_Love.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "SummertimeSagaXL.safetensors",
+            0.1
         ]
     ],
     "default_cfg_scale": 7.0,
     "default_sample_sharpness": 2.0,
-    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_sampler": "euler_ancestral",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "",
-    "default_prompt_negative": "",
+    "default_prompt": "score_9, score_8_up, score_7_up,  san, 1girl, full body, squatting, solo, short hair, brown hair, gray eyes, headband, face paint, earrings, white sleeveless top, navy under dress, arm cuffs, fur headdress, fur cape, light-skinned female, female focus, looking at viewer, smiling, forest, (blush:1.1)  <lora:pony/twilight_style:0.8> concept art, realistic, <lora:pony/expressiveh:0.8> expressiveh, <lora:pony/kenva:0.8> knva, <lora:pony/san_pony_v4> <lora:sdxl/sinfully_stylish_sdxl>",
+    "default_prompt_negative": "score_6, score_5, score_4",
     "default_styles": [
         "Fooocus Pony"
     ],
@@ -47,7 +72,18 @@
         "ponyDiffusionV6XL.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "Sinfully_Stylish_dramatic_lighting.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/3214746/sinfullyStylishSDXL.YBH3.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22sinfully_stylish_SDXL.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T073014Z&X-Amz-SignedHeaders=host&X-Amz-Signature=463dfd077366d8b075d5609d75cd95b079b23147c734983ff03556208fc36301",
+        "Pony_Custom_styles.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/8748/kenva.XOLc.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22Kenva.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T073242Z&X-Amz-SignedHeaders=host&X-Amz-Signature=db25de82ec57771b973774bec86f14410323a8cd2097c88274c1aabb9cf957fa",
+        "Not_Artists_Styles_for_Pony_Diffusion_V6_XL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/1461/concept20art20twilight.3vNn.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22Concept%20Art%20Twilight%20Style%20SDXL_LoRA_Pony%20Diffusion%20V6%20XL.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T073755Z&X-Amz-SignedHeaders=host&X-Amz-Signature=5631ed45785d9e1acf7ec7ce0e83f15e280cd50325fd8497dc248dc9909446ee",
+        "San_Princess_Mononoke.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/1500700/sanPonyV4.89kt.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22san_pony_v4.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T073954Z&X-Amz-SignedHeaders=host&X-Amz-Signature=54076c77b7c5bd891a2a62f822768732835dff85857abee6b20a37b489b0ce2c",
+        "ExpressiveH_Hentai_LoRa_Style.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/341353/Expressive_H-000001.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22Expressive_H-000001.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T074406Z&X-Amz-SignedHeaders=host&X-Amz-Signature=6c4fd85a7049e8fd3a2e25fd3bfaa78ca6e1086a6a5ddd6f466c300b8e8aba69",
+        "Walk_in_caught_watched.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/377097/Walk-in_caught_by_Fire_Keeper-000004.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22Walk-in_caught_by_Fire_Keeper-000004.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T080053Z&X-Amz-SignedHeaders=host&X-Amz-Signature=85b31d33a9d878ca90251fac6b361540f50db853c5fbf175a71bfde32162820a",
+        "All_Disney_Princess_XL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/13068/princessXlV2.WSt4.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22princess_xl_v2.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T080414Z&X-Amz-SignedHeaders=host&X-Amz-Signature=881aa78f9660744f3bb40e02690bf01dc8e3664634eda921587792eae0740815",
+        "Floox_Style_PonyXL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/1981207/floox20.0QWj.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22Floox_2.0.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T080624Z&X-Amz-SignedHeaders=host&X-Amz-Signature=6ff16323799f5c5ddb26043242f9e77e79a4b6a6d41cbcf81f9d88fa3925ca3c",
+        "Pet_Love.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/170862/p3tl0v3xlp.Xhbd.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22p3tl0v3XLP.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T080807Z&X-Amz-SignedHeaders=host&X-Amz-Signature=1e5d7540d9c32fc6ba7c57b3fd6f5761ff7eb756333bd5959ad4c73e94e949d9",
+        "SummertimeSagaXL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/6589/summertimesagaxlPony.Pu5d.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22SummertimeSagaXL_Pony.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T081557Z&X-Amz-SignedHeaders=host&X-Amz-Signature=0e358e3d624ac17ebb39f82a8fcb477737be2cd211ab0d4a7465599da6dbfa3e"
+    },
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
     }
