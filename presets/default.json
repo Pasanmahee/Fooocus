@@ -80,11 +80,5 @@
         "SDXL_Lightning_LoRAs.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/5418/sdxlLightning8step.Kme5.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22sdxl_lightning_8step_lora.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250126/us-east-1/s3/aws4_request&X-Amz-Date=20250126T212553Z&X-Amz-SignedHeaders=host&X-Amz-Signature=de055e6e1723c4c056ca6ac3264ccc5d574fd3d0a6f642eb8361d13873b33b17",
         "Envy_Zoom_Slider_XL_01.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/5628/envyzoomsliderxl01.9PWP.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22EnvyZoomSliderXL01.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250126/us-east-1/s3/aws4_request&X-Amz-Date=20250126T221445Z&X-Amz-SignedHeaders=host&X-Amz-Signature=2803f464eda43e979d1b28b582fac01d6330a7317c127923000abafbeecf1392"
     },
-    "previous_default_models": [
-        "juggernautXL_version8Rundiffusion.safetensors",
-        "juggernautXL_version7Rundiffusion.safetensors",
-        "juggernautXL_v7Rundiffusion.safetensors",
-        "juggernautXL_version6Rundiffusion.safetensors",
-        "juggernautXL_v6Rundiffusion.safetensors"
-    ]
+    "previous_default_models": []
 }

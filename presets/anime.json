@@ -1,32 +1,57 @@
 {
-    "default_model": "animaPencilXL_v500.safetensors",
+    "default_model": "Anything_XL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
             true,
-            "None",
-            1.0
+            "XL_Weapon_Orbstaff-By_HailoKnight.safetensors",
+            0.65
         ],
         [
             true,
-            "None",
-            1.0
+            "extremely_detailed_no_trigger-sliders.ntcai.xyz.safetensors",
+            0.6
         ],
         [
             true,
-            "None",
-            1.0
+            "Zavys_Dark_Atmospheric_Contrast-SDXL.safetensors",
+            0.8
         ],
         [
             true,
-            "None",
-            1.0
+            "Translucent-Subsurface_Scattering_Test.safetensors",
+            0.9
         ],
         [
             true,
-            "None",
-            1.0
+            "SDXL_Flux_1D-Matte_Vanta_Black-Experiment.safetensors",
+            0.6
+        ],
+        [
+            true,
+            "Atomic_Heart-Twins_Cosplay-SDXL.safetensors",
+            0.8
+        ],
+        [
+            true,
+            "Detail_Tweaker_XL.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "XL_Fantasy_Knights-by_HailoKnight.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "SDXL_Lightning_LoRAs.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "Envy_Zoom_Slider_XL_01.safetensors",
+            0.1
         ]
     ],
     "default_cfg_scale": 6.0,
@@ -34,27 +59,26 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "",
-    "default_prompt_negative": "",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Semi Realistic",
-        "Fooocus Masterpiece"
-    ],
+    "default_prompt": "masterpiece, best quality, 1girl, solo, animal ears, bow, teeth, jacket, tail, open mouth, brown hair, orange background, bowtie, orange nails, simple background, cat ears, orange eyes, blue bow, animal ear fluff, cat tail, looking at viewer, upper body, shirt, school uniform, hood, striped bow, striped, white shirt, black jacket, blue bowtie, fingernails, long sleeves, cat girl, bangs, fangs, collared shirt, striped bowtie, short hair, tongue, hoodie, sharp teeth, facial mark, claw pose",
+    "default_prompt_negative": "lowres, bad, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, signature, extra digits, artistic error, username, abstract, artist logo, artist name, signature, bad fingers, bad hand",
+    "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "animaPencilXL_v500.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/animaPencilXL_v500.safetensors"
+        "Anything_XL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/262917/anythingxlBeta5.Wkkf.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22AnythingXL_xl.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250127/us-east-1/s3/aws4_request&X-Amz-Date=20250127T005333Z&X-Amz-SignedHeaders=host&X-Amz-Signature=0f455df20f5cfe5c6b792513e467241809240403c8c66941e8616168d5f3624d"
     },
-    "embeddings_downloads": {},
-    "lora_downloads": {},
-    "previous_default_models": [
-        "animaPencilXL_v400.safetensors",
-        "animaPencilXL_v310.safetensors",
-        "animaPencilXL_v300.safetensors",
-        "animaPencilXL_v260.safetensors",
-        "animaPencilXL_v210.safetensors",
-        "animaPencilXL_v200.safetensors",
-        "animaPencilXL_v100.safetensors"
-    ]
+    "embeddings_downloads": {"EasyNegative": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/3068/model/easynegative.YTMh.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22easynegative.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T030510Z&X-Amz-SignedHeaders=host&X-Amz-Signature=5491f592889864f1d02a550b7f230b2816da7868e0bba523e27d1902c532c4c1"},
+    "lora_downloads": {
+        "XL_Weapon_Orbstaff-By_HailoKnight.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/1664727/xlWeaponOrbstaffBy.Fn7F.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22XL_Weapon_Orbstaff_-_By_HailoKnight.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151432Z&X-Amz-SignedHeaders=host&X-Amz-Signature=97b746735c8f682eb3c185303fdb5c52c17c0a311b28654861939e7323a787e0",
+        "extremely_detailed_no_trigger-sliders.ntcai.xyz.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/312884/extremelyDetailed.pfwQ.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22extremely_detailed.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151520Z&X-Amz-SignedHeaders=host&X-Amz-Signature=0efc356d25f2990a111ae0d3ec6ee757ffb5b2d26d4ba5462f6e9caf9b65b1b6",
+        "Zavys_Dark_Atmospheric_Contrast-SDXL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/130931/zavyCntrstSdxl.72yh.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22zavy-cntrst-sdxl.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151632Z&X-Amz-SignedHeaders=host&X-Amz-Signature=fbd619a9083b1d2d7962c6b016cea6647d82de6c92f67e4b1cc410d16b95faaa",
+        "Translucent-Subsurface_Scattering_Test.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/370194/sss-000009.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22sss-000009.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151742Z&X-Amz-SignedHeaders=host&X-Amz-Signature=778313152f88ed491c1ecf7df6271bebb43e6ff28e781e4dd6ded729e0a1fc90",
+        "SDXL_Flux_1D-Matte_Vanta_Black-Experiment.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/1141136/20SDXL2020vantBlk.3a70.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22-%20SDXL%20-%20vant_blk_contrast_V2.0.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151834Z&X-Amz-SignedHeaders=host&X-Amz-Signature=21ca28b8fc8da8a9dde0d3225747b398df533e773b9aec2ced745252b6071a4a",
+        "Atomic_Heart-Twins_Cosplay-SDXL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/252350/atomichearttwinscospl.KN9C.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22AtomicHeartTwinsCosplay_SDXL.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T192923Z&X-Amz-SignedHeaders=host&X-Amz-Signature=d6a8c74fa6249ed268d5b06fd0d595c54862d2268cd10ef826c4d76cd1cbeadd",
+        "Detail_Tweaker_XL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/1969604/model/addDetailXl.MLUV.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22add-detail-xl.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250126/us-east-1/s3/aws4_request&X-Amz-Date=20250126T210059Z&X-Amz-SignedHeaders=host&X-Amz-Signature=e86332bb14efcc9994d4a06b00feb9e891db28808955e63f467dc42765e11c85",
+        "XL_Fantasy_Knights-by_HailoKnight.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/1664727/fantasyknightshkstyl.yT6b.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22FantasyKnightsHKStyle.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250126/us-east-1/s3/aws4_request&X-Amz-Date=20250126T211612Z&X-Amz-SignedHeaders=host&X-Amz-Signature=014fff8e252e21376fc0055d9ba5865a90aaa4df807a0483b906f865e6db20e8",
+        "SDXL_Lightning_LoRAs.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/5418/sdxlLightning8step.Kme5.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22sdxl_lightning_8step_lora.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250126/us-east-1/s3/aws4_request&X-Amz-Date=20250126T212553Z&X-Amz-SignedHeaders=host&X-Amz-Signature=de055e6e1723c4c056ca6ac3264ccc5d574fd3d0a6f642eb8361d13873b33b17",
+        "Envy_Zoom_Slider_XL_01.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/5628/envyzoomsliderxl01.9PWP.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22EnvyZoomSliderXL01.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250126/us-east-1/s3/aws4_request&X-Amz-Date=20250126T221445Z&X-Amz-SignedHeaders=host&X-Amz-Signature=2803f464eda43e979d1b28b582fac01d6330a7317c127923000abafbeecf1392"
+    },
+    "previous_default_models": []
 }
