@@ -65,7 +65,7 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "WildCardX-XL-Fusion.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/2896350/wildcardxXLFusion.d8pf.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22wildcardxXLFusion_fusionOG.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250124/us-east-1/s3/aws4_request&X-Amz-Date=20250124T151328Z&X-Amz-SignedHeaders=host&X-Amz-Signature=0caa5ccc6927cd5d6eabc40d447d2a4f35ae19e594090a51f590cd39749e2e39"
+        "WildCardX-XL-Fusion.safetensors": "https://drive.google.com/uc?export=download&id=1xBB7bp73vB6tv-U_n8ZIzEHB2n9Fpcv9"
     },
     "embeddings_downloads": {"EasyNegative": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/3068/model/easynegative.YTMh.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22easynegative.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250125/us-east-1/s3/aws4_request&X-Amz-Date=20250125T030510Z&X-Amz-SignedHeaders=host&X-Amz-Signature=5491f592889864f1d02a550b7f230b2816da7868e0bba523e27d1902c532c4c1"},
     "lora_downloads": {
