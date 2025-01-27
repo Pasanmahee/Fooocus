@@ -16,7 +16,7 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "WildCardX-XL-Fusion.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/2896350/wildcardxXLFusion.d8pf.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22wildcardxXLFusion_fusionOG.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250127/us-east-1/s3/aws4_request&X-Amz-Date=20250127T133248Z&X-Amz-SignedHeaders=host&X-Amz-Signature=eda50ee7468ca09dd19f215f9fbaf6a615133d21f68d30ec0bfa6b4ee917e7f5"
+        "WildCardX-XL-Fusion.safetensors": "https://www.googleapis.com/drive/v3/files/1xBB7bp73vB6tv-U_n8ZIzEHB2n9Fpcv9/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
