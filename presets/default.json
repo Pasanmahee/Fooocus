@@ -65,7 +65,7 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "WildCardX-XL-Fusion.safetensors": "https://www.googleapis.com/drive/v3/files/1xBB7bp73vB6tv-U_n8ZIzEHB2n9Fpcv9/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"
+        "WildCardX-XL-Fusion.safetensors": "https://www.googleapis.com/drive/v3/files/1QRlSrXa7kW_8edXujk3o98FtDUrizmKo/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"
     },
     "embeddings_downloads": {"EasyNegative": "https://www.googleapis.com/drive/v3/files/16IYFqUVgg-gS55SMMpFsmOhFhIKY3g1-/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"},
     "lora_downloads": {
