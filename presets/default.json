@@ -3,7 +3,56 @@
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
-      
+        [
+            true,
+            "XL_Weapon_Orbstaff-By_HailoKnight.safetensors",
+            0.65
+        ],
+        [
+            true,
+            "extremely_detailed_no_trigger-sliders.ntcai.xyz.safetensors",
+            0.6
+        ],
+        [
+            true,
+            "Zavys_Dark_Atmospheric_Contrast-SDXL.safetensors",
+            0.8
+        ],
+        [
+            true,
+            "Translucent-Subsurface_Scattering_Test.safetensors",
+            0.9
+        ],
+        [
+            true,
+            "SDXL_Flux_1D-Matte_Vanta_Black-Experiment.safetensors",
+            0.6
+        ],
+        [
+            true,
+            "Atomic_Heart-Twins_Cosplay-SDXL.safetensors",
+            0.8
+        ],
+        [
+            true,
+            "Detail_Tweaker_XL.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "XL_Fantasy_Knights-by_HailoKnight.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "SDXL_Lightning_LoRAs.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "Envy_Zoom_Slider_XL_01.safetensors",
+            0.1
+        ]
     ],
     "default_cfg_scale": 5.0,
     "default_sample_sharpness": 2.0,
@@ -18,9 +67,18 @@
     "checkpoint_downloads": {
         "WildCardX-XL-Fusion.safetensors": "https://www.googleapis.com/drive/v3/files/1xBB7bp73vB6tv-U_n8ZIzEHB2n9Fpcv9/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"
     },
-    "embeddings_downloads": {},
+    "embeddings_downloads": {"EasyNegative": "https://www.googleapis.com/drive/v3/files/16IYFqUVgg-gS55SMMpFsmOhFhIKY3g1-/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"},
     "lora_downloads": {
-       
+        "XL_Weapon_Orbstaff-By_HailoKnight.safetensors": "https://www.googleapis.com/drive/v3/files/1XzPQ9o4gAhutKKvLiDR1kq4oze5o-7ZS/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "extremely_detailed_no_trigger-slidersntcaixyz.safetensors": "https://www.googleapis.com/drive/v3/files/1EIM_22hXkMSaSKtu-OWd08W9C0cGjtZB/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "Zavys_Dark_Atmospheric_Contrast-SDXL.safetensors": "https://www.googleapis.com/drive/v3/files/1--v8FIWewj0OX9pe_mnxfIWR-e79uKtN/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "Translucent-Subsurface_Scattering_Test.safetensors": "https://www.googleapis.com/drive/v3/files/1-16nktKXiRR72TGoM5evQkJpCaxESIpD/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "SDXL_Flux_1D-Matte_Vanta_Black-Experiment.safetensors": "https://www.googleapis.com/drive/v3/files/1-4D1saNkp3UEicysWHNz8N8Cb96ZcDOx/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "Atomic_Heart-Twins_Cosplay-SDXL.safetensors": "https://www.googleapis.com/drive/v3/files/1-62G99iJl-Iumz9dUXaGUMQeLkdPMgL3/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "Detail_Tweaker_XL.safetensors": "https://www.googleapis.com/drive/v3/files/1-D7RAAzsHsGYiLNQxKCGQBPzEFPrjrlJ/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "XL_Fantasy_Knights-by_HailoKnight.safetensors": "https://www.googleapis.com/drive/v3/files/1-JEaMyYnAf132ZpqOOnQmiN59Vkt6rld/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "SDXL_Lightning_LoRAs.safetensors": "https://www.googleapis.com/drive/v3/files/1-K0CCajNRbJW6QS-UCRCd0FKR7T1M-Vg/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "Envy_Zoom_Slider_XL_01.safetensors": "https://www.googleapis.com/drive/v3/files/1-Kz8lMujbu6t754rkDQwS9rxKVUfqQ2L/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"
     },
     "previous_default_models": []
 }

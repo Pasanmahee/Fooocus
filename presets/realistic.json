@@ -10,22 +10,42 @@
         ],
         [
             true,
+            "Nudify_XL_Better_Bodies.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "MoXin.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "Hipoly_3D_Model_LoRA.safetensors",
+            0.1
+        ],
+        [
+            true,
+            "epi_noiseoffset.safetensors",
+            0.1
+        ],
+        [
+            true,
             "Detail_Tweaker_LoRA.safetensors",
             0.1
         ],
         [
             true,
-            "None",
+            "blindbox.safetensors",
             0.1
         ],
         [
             true,
-            "None",
+            "Art_Style_Fashion_Girl.safetensors",
             0.1
         ],
         [
             true,
-            "None",
+            "Add_More_Details_Detail_Enhancer_Tweaker.safetensors",
             0.1
         ]
     ],
@@ -45,7 +65,14 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
-        "Detail_Tweaker_LoRA.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/275939/model/addDetail.JO09.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22add_detail.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250127/us-east-1/s3/aws4_request&X-Amz-Date=20250127T013700Z&X-Amz-SignedHeaders=host&X-Amz-Signature=311ca7f2b2405ba57e28f70f3a439f4a2f9f73db4c05502a1d973d35c3c5fc2a"
+        "Nudify_XL_Better_Bodies.safetensors": "https://www.googleapis.com/drive/v3/files/1-JIGroDoyQUGTI5aUKahD_5jyscFcbHd/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "MoXin.safetensors": "https://www.googleapis.com/drive/v3/files/1Zf_j0EZ32jPX-xlzO7P31LhpuFXhfNOO/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "Hipoly_3D_Model_LoRA.safetensors": "https://www.googleapis.com/drive/v3/files/1-SmHiiT-KGtG8wkH3VCEnUokhKDG1Vil/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "epi_noiseoffset.safetensors": "https://www.googleapis.com/drive/v3/files/1-YumpxCepeY7L4KVEu4B_l0gxF07W7e8/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "Detail_Tweaker_LoRA.safetensors": "https://www.googleapis.com/drive/v3/files/1-RtdQ5FvidhMaeWgK86p350ahIw9ubWS/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "blindbox.safetensors": "https://www.googleapis.com/drive/v3/files/1-WyJtIXRnM1f1XG80FcYP73iRql_ddA8/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "Art_Style_Fashion_Girl.safetensors": "https://www.googleapis.com/drive/v3/files/1-TRp477yl_mYysn2-oV5hxAdT8V9Q-Uu/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
+        "Add_More_Details_Detail_Enhancer_Tweaker.safetensors": "https://www.googleapis.com/drive/v3/files/1-LBmsercE8RjKRKwqnogh-5E5NK_fhZG/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"
     },
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }
