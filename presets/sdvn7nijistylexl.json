@@ -64,9 +64,7 @@
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
-    "checkpoint_downloads": {
-        "SDVN7-NijiStyleXL.safetensors": "https://www.googleapis.com/drive/v3/files/15ehPpPm_sJVShZJgeDMYFy4ygsW3futX/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"
-    },
+    "checkpoint_downloads": {},
     "embeddings_downloads": {"EasyNegative": "https://www.googleapis.com/drive/v3/files/16IYFqUVgg-gS55SMMpFsmOhFhIKY3g1-/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"},
     "lora_downloads": {
         "XL_Weapon_Orbstaff-By_HailoKnight.safetensors": "https://www.googleapis.com/drive/v3/files/1XzPQ9o4gAhutKKvLiDR1kq4oze5o-7ZS/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",

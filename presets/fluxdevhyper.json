@@ -94,9 +94,7 @@
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
-    "checkpoint_downloads": {
-        "Flux1_Dev_Hyper_NF4Flux1Dev_BNBNF4FluxSchnellBNBNF4.safetensors": "https://www.googleapis.com/drive/v3/files/1k3sgOhMc0Y17MZzR297o-JUFPrcDlg-W/?key=AIzaSyAp9_4O1myEFh_ZcaNPT_Rxw73N4rs6yXc&alt=media"
-    },
+    "checkpoint_downloads": {},
     "embeddings_downloads": {},
     "lora_downloads": {
         "Hands_XL_SD_1_5_FLUX_1_dev.safetensors": "https://www.googleapis.com/drive/v3/files/1GWMb8pzFndnqBcxe6_CIPdcQRnO5HiWl/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
