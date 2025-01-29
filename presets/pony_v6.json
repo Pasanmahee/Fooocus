@@ -92,7 +92,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "ponyDiffusionV6XL.safetensors": "https://www.googleapis.com/drive/v3/files/1fcUh0CyFUIwVuZMOP-By8fEmhB6-Rcu8/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"
+        "ponyDiffusionV6XL.safetensors": "https://www.googleapis.com/drive/v3/files/1k7HnrEyIRUCT-JDQdEinmwxBFpmxGlPk/?key=AIzaSyAp9_4O1myEFh_ZcaNPT_Rxw73N4rs6yXc&alt=media"
     },
     "embeddings_downloads": {},
     "lora_downloads": {

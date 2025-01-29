@@ -1,5 +1,5 @@
 {
-    "default_model": "FLUX.safetensors",
+    "default_model": "Flux1_Dev_Hyper_NF4Flux1Dev_BNBNF4FluxSchnellBNBNF4.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -95,7 +95,7 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "FLUX.safetensors": "https://www.googleapis.com/drive/v3/files/1m-zqrcvXfAoQMme8W7M1GKo6VW9tpj4R/?key=AIzaSyAp9_4O1myEFh_ZcaNPT_Rxw73N4rs6yXc&alt=media"
+        "Flux1_Dev_Hyper_NF4Flux1Dev_BNBNF4FluxSchnellBNBNF4.safetensors": "https://www.googleapis.com/drive/v3/files/1k3sgOhMc0Y17MZzR297o-JUFPrcDlg-W/?key=AIzaSyAp9_4O1myEFh_ZcaNPT_Rxw73N4rs6yXc&alt=media"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
