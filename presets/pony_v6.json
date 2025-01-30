@@ -93,23 +93,7 @@
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {},
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "Pony_Custom_styles.safetensors": "https://www.googleapis.com/drive/v3/files/12Eeh6FFSkJrOurfNLXEC73_L5ylZiMze/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Not_Artists_Styles_for_Pony_Diffusion_V6_XL.safetensors": "https://www.googleapis.com/drive/v3/files/1-1uep_jhHCF7kd00YZpmD-GT1pFD2Fri/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "San_Princess_Mononoke.safetensors": "https://www.googleapis.com/drive/v3/files/1-3waR9WiKqk1ijMTn6mJy0Hh61vRjQER/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "ExpressiveH_Hentai_LoRa_Style.safetensors": "https://www.googleapis.com/drive/v3/files/1-8sCW2PWCes4SQJ0F8nMYpe2KTVyBXnI/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Walk_in_caught_watched.safetensors": "https://www.googleapis.com/drive/v3/files/1-C3NbsdS2JJ3Sp5sR82PEeuMF6b5jvGj/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "All_Disney_Princess_XL.safetensors": "https://www.googleapis.com/drive/v3/files/1-Prm7xztS793a-CjTxVa-rzFM97zj8yP/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Floox_Style_PonyXL.safetensors": "https://www.googleapis.com/drive/v3/files/1-XKQ1yvjFtwLG222oPQsKSCiFGvwPgcN/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Pet_Love.safetensors": "https://www.googleapis.com/drive/v3/files/1-aY5TjTn0D6cZgDlEqq1odZqw118sbso/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "SummertimeSagaXL.safetensors": "https://www.googleapis.com/drive/v3/files/1-eZ8fPBZts8daYnaeItOIoUSLGr2ixGS/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Fantasy_World_PonyXL.safetensors": "https://www.googleapis.com/drive/v3/files/1-vRlDqjBISepRzrN6eB_Zh8mb5O1awjz/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Popyay_s_Epic_Fantasy_Style_Pony_SDXL.safetensors": "https://www.googleapis.com/drive/v3/files/1-zrh5AmmW55kSQF4iyKaFgcSWQ1LmqJE/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Cherry_Gig_Style_for_PonyX.safetensors": "https://www.googleapis.com/drive/v3/files/10-JStLDkkThkUONLJ6oyzgh-K9swz_Co/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Real_Mechanical_Parts.safetensors": "https://www.googleapis.com/drive/v3/files/1000TC9diR-vNJxrp7JAMRc2Hucu5qAWM/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Detail_Tweaker_XL.safetensors": "https://www.googleapis.com/drive/v3/files/10307K4KW7UPsqFTJHYdxogJ67b_P5VG5/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Vixon_s_Pony_Styles_neon_lightsv1_0.safetensors": "https://www.googleapis.com/drive/v3/files/105cSaCioOKhtjI0AmGEE_Uatm9nPI-Lf/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"
-    },
+    "lora_downloads": {},
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
     }

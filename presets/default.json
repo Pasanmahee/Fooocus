@@ -65,9 +65,7 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {},
-    "embeddings_downloads": {"EasyNegative": "https://www.googleapis.com/drive/v3/files/16IYFqUVgg-gS55SMMpFsmOhFhIKY3g1-/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"},
-    "lora_downloads": {
-
-    },
+    "embeddings_downloads": {},
+    "lora_downloads": {},
     "previous_default_models": []
 }

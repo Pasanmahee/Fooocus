@@ -63,16 +63,6 @@
         "realisticStockPhoto_v20.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v20.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
-        "Nudify_XL_Better_Bodies.safetensors": "https://www.googleapis.com/drive/v3/files/1-JIGroDoyQUGTI5aUKahD_5jyscFcbHd/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "MoXin.safetensors": "https://www.googleapis.com/drive/v3/files/1Zf_j0EZ32jPX-xlzO7P31LhpuFXhfNOO/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Hipoly_3D_Model_LoRA.safetensors": "https://www.googleapis.com/drive/v3/files/1-SmHiiT-KGtG8wkH3VCEnUokhKDG1Vil/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "epi_noiseoffset.safetensors": "https://www.googleapis.com/drive/v3/files/1-YumpxCepeY7L4KVEu4B_l0gxF07W7e8/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Detail_Tweaker_LoRA.safetensors": "https://www.googleapis.com/drive/v3/files/1-RtdQ5FvidhMaeWgK86p350ahIw9ubWS/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "blindbox.safetensors": "https://www.googleapis.com/drive/v3/files/1-WyJtIXRnM1f1XG80FcYP73iRql_ddA8/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Art_Style_Fashion_Girl.safetensors": "https://www.googleapis.com/drive/v3/files/1-TRp477yl_mYysn2-oV5hxAdT8V9Q-Uu/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Add_More_Details_Detail_Enhancer_Tweaker.safetensors": "https://www.googleapis.com/drive/v3/files/1-LBmsercE8RjKRKwqnogh-5E5NK_fhZG/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"
-    },
+    "lora_downloads": {},
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }

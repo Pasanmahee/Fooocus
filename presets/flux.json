@@ -96,8 +96,6 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {},
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "Anime_art.safetensors": "https://www.googleapis.com/drive/v3/files/1-PIeqQymqoPvx7vCeLsWV882mnltdj-Z/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"
-    },
+    "lora_downloads": {},
     "previous_default_models": []
 }
