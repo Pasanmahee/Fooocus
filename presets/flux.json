@@ -97,20 +97,6 @@
     "checkpoint_downloads": {},
     "embeddings_downloads": {},
     "lora_downloads": {
-        "Hands_XL_SD_1_5_FLUX_1_dev.safetensors": "https://www.googleapis.com/drive/v3/files/1GWMb8pzFndnqBcxe6_CIPdcQRnO5HiWl/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Character_Design_Sheet.safetensors": "https://www.googleapis.com/drive/v3/files/1BTDFQnJquqgNWP7l6UIglbGof5DhLonn/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Midjourney_V6_1_meets_FLUX.safetensors": "https://www.googleapis.com/drive/v3/files/1--1-wyHQiAIYonRMe0l1Frj88mmfRibp/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Velvets_Mythic_Fantasy_Styles_Flux_Pony.safetensors": "https://www.googleapis.com/drive/v3/files/1-1iPaAjIcZjWhPKpSJeeM-VZCITEpXBl/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "zyd232_s_Ink_Style.safetensors": "https://www.googleapis.com/drive/v3/files/117QUi315CXFlV7Hdga4uuy9TdNPmmTeP/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Cyberpunk_Anime_Style.safetensors": "https://www.googleapis.com/drive/v3/files/1-350P2zd25y2LSYXf2sXTXWvCETF0abh/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Satoshi_Urushihara_style.safetensors": "https://www.googleapis.com/drive/v3/files/1-2yFijwwFBqaKWpG04tO8tIP1j736r_w/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Granblue_fantasy_style.safetensors": "https://www.googleapis.com/drive/v3/files/1-3s5awd6iQ-AU6xcyk3rRkhCgWXdJ2jq/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Flux_Image_Enhancer-by_Dever.safetensors": "https://www.googleapis.com/drive/v3/files/1-73Nf5b7H3ME_O6LWM5Z2O4B9L6wti2C/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Retro_Anime_Flux-Style.safetensors": "https://www.googleapis.com/drive/v3/files/1-DQTRIdlm27kX4lEYGfvIlEW8Afx4J0j/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "ArtifyFractal_Flux.safetensors": "https://www.googleapis.com/drive/v3/files/1-HkUQpGzb99hnCyU7q1PnvotuX7Hwiqq/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Midjourney_Dreamlike_Fantasy_FLUX_LoRA.safetensors": "https://www.googleapis.com/drive/v3/files/1-FQ6eAkD8UUb3SgOtPROIzhyRJH9OZ9u/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "FLUX_FaeTastic_Details.safetensors": "https://www.googleapis.com/drive/v3/files/1-LGPJQJ4DjWs76E3T1oZ_L7xDYMKIJ5C/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
-        "Opal_Style_FLUXSDXLSD15.safetensors": "https://www.googleapis.com/drive/v3/files/1-NLPgfRvat7uGxRKnbS4lG7qzBYoN2rG/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media",
         "Anime_art.safetensors": "https://www.googleapis.com/drive/v3/files/1-PIeqQymqoPvx7vCeLsWV882mnltdj-Z/?key=AIzaSyCftBUtpG3Y3EdGV9L9rvaPr_Hu9kWLiVI&alt=media"
     },
     "previous_default_models": []
